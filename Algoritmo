@@ -1,0 +1,8 @@
+Algoritmo Area_Triangulo
+	escribir "Ingresa la base: "
+	leer b
+	escribir "Ingresa la altura: '
+	leer a
+	r = (b*a)/2
+	escribir "El resultado es ", r
+FinAlgoritmo
